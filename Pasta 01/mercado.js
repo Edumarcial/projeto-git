@@ -1,3 +1,6 @@
 const m = "mercado-pago"
 const n = "pagamento"
-console.log(m, n)
+const d = "devedor"
+// alteração recebida aceita!
+console.log (m, d)
+

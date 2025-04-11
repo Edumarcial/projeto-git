@@ -1,0 +1,16 @@
+p {
+    text-align: center;
+}
+
+/* Acertado erro de incompatibilidade */
+table {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    align-items: center;
+}
