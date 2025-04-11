@@ -5,3 +5,7 @@ p {
 a {
     text-decoration: none;
 }
+
+p {
+    align-items: center;
+}
