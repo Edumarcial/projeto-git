@@ -2,15 +2,15 @@ p {
     text-align: center;
 }
 
-<<<<<<< HEAD
+/* Acertado erro de incompatibilidade */
 table {
     text-align: center;
-=======
+}
+
 a {
     text-decoration: none;
 }
 
 p {
     align-items: center;
->>>>>>> f506e3d5b99c702610ec709121c6e6c25a9730d1
 }
